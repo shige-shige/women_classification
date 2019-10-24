@@ -6,6 +6,13 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+pil = "*"
+scikit-learn = "*"
+google-images-download = "*"
+pillow = "*"
+tensorflow = "*"
+keras = "*"
+numpy = "==1.16.1"
 
 [requires]
 python_version = "3.7"
